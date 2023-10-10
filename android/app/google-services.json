@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341492647133",
+    "project_id": "virtual-shop-8b750",
+    "storage_bucket": "virtual-shop-8b750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341492647133:android:8e1268fb70af958c46c734",
+        "android_client_info": {
+          "package_name": "gabrieloliveir4.com.br.virtual_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvXRTO1EvYWdRs47NGYj0AwNrNnPs6mOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
